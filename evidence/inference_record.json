@@ -1,0 +1,47 @@
+{
+  "notebook": "02_Inference.ipynb",
+  "dataset_url": "https://github.com/JBA69/interior-wall-defects/releases/download/v1.0/interior-wall-defects-v1-yolo11.zip",
+  "dataset_sha256": "9137b89d2f406adf1fa7dbfc6bf5a2e95db396d39c26a8c80d248a2f0b8b8a42",
+  "model_url": "https://github.com/JBA69/interior-wall-defects/releases/download/v1.0/best-run2.pt",
+  "model_sha256": "cc1d5096124f32bc7783d86a817394fc08501ef8291b2fa6c76f9dc1e720fe4f",
+  "model_from_release": true,
+  "imgsz": 1280,
+  "conf_floor": 0.01,
+  "conf_reported": 0.25,
+  "iou_match": 0.45,
+  "iou_nms": 0.7,
+  "classes": [
+    "blistering",
+    "crack",
+    "damp_patch",
+    "mould",
+    "peeling_paint"
+  ],
+  "ultralytics_version": "8.4.166",
+  "torch_version": "2.11.0+cpu",
+  "device": "cpu",
+  "totals_at_reported_conf": [
+    {
+      "split": "test",
+      "gt": 73,
+      "pred": 51,
+      "TP": 1,
+      "FN": 72,
+      "FP": 50,
+      "confusion": 7,
+      "recall": 0.014,
+      "precision": 0.02
+    },
+    {
+      "split": "val",
+      "gt": 363,
+      "pred": 144,
+      "TP": 38,
+      "FN": 325,
+      "FP": 106,
+      "confusion": 20,
+      "recall": 0.105,
+      "precision": 0.264
+    }
+  ]
+}

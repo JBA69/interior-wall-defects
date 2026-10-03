@@ -1,0 +1,43 @@
+{
+  "run_tag": "run2",
+  "dataset_url": "https://github.com/JBA69/interior-wall-defects/releases/download/v1.0/interior-wall-defects-v1-yolo11.zip",
+  "dataset_sha256": "9137b89d2f406adf1fa7dbfc6bf5a2e95db396d39c26a8c80d248a2f0b8b8a42",
+  "dataset_version": "v1",
+  "n_classes": 5,
+  "classes": [
+    "blistering",
+    "crack",
+    "damp_patch",
+    "mould",
+    "peeling_paint"
+  ],
+  "model_weights": "yolo11s.pt",
+  "imgsz": 1280,
+  "batch": 8,
+  "seed": 0,
+  "epochs_requested": 150,
+  "patience": 40,
+  "augmentation": {
+    "mosaic": 1.0,
+    "close_mosaic": 30,
+    "scale": 0.5,
+    "hsv_v": 0.3,
+    "hsv_s": 0.6,
+    "hsv_h": 0.015,
+    "degrees": 0.0,
+    "flipud": 0.0,
+    "fliplr": 0.5,
+    "translate": 0.1,
+    "erasing": 0.0
+  },
+  "ultralytics_version": "8.4.166",
+  "torch_version": "2.11.0+cu128",
+  "device": "Tesla T4",
+  "val_mAP50": 0.0858564902988774,
+  "val_mAP50_95": 0.03315301740043206,
+  "test_mAP50": 0.013436769803145773,
+  "test_mAP50_95": 0.003246989715272609,
+  "epochs_trained": 112,
+  "close_mosaic_off_at_epoch": 120,
+  "close_mosaic_engaged": false
+}

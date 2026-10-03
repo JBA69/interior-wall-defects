@@ -1,0 +1,4 @@
+split,images,background (empty .txt),NO label file,blistering,crack,damp_patch,mould,peeling_paint,instances
+train,134,20,0,348,77,290,629,86,1430
+val,44,3,0,116,46,101,93,7,363
+test,46,23,0,12,25,12,17,7,73

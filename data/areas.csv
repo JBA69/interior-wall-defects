@@ -1,0 +1,245 @@
+﻿area_id;room;photo_id;parent_photo_id;surface;split;classes_present;negative_type;negative_content;behind_wall_notes;date;conditions;exclude;exclude_reason
+CLOSET-B;closet;CLOSET-B_ctx_bright_clean_6949;NA;wall B;train;mould, damp patch, blistering, peeling paint;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;yes;pano image
+CLOSET-B;closet;CLOSET-B_ctx_bright_clean_6950;NA;wall B + ceiling;train;mould, damp patch, blistering, peeling paint;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;yes;pano image
+CLOSET-B;closet;CLOSET-B_ctx_bright_clean_6951;NA;wall B;train;mould, damp patch, blistering, peeling paint;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;yes;pano image
+CLOSET-B;closet;CLOSET-B_c300_bright_clean_6952;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch, blistering, peeling paint;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c300_bright_clean_6953;NA;corner 1 - wall A & B + ceiling;train;mould, damp patch, blistering, peeling paint;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c300_bright_clean_6954;NA;corner 1 - wall A & B;train;mould, blistering;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_bright_clean_6955;NA;wall B + ceiling;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6956;NA;wall B;train;blistering;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6957;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6958;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6959;NA;wall B;train;peeling paint, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6960;NA;wall B + ceiling;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6961;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6962;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6963;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_bright_clean_6964;NA;wall B + ceiling;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6965;NA;wall B;train;mould, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6966;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6967;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_bright_clean_6968;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6969;NA;wall B & C;train;mould, damp patch;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6970;NA;wall B & C;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6971;NA;wall B & C;train;mould, blistering, crack, peeling paint, damp patch;;;plaster partially removed, humid cement plaster;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_bright_clean_6972;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch, crack;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6973;NA;wall C;train;mould, blistering, damp patch, peeling paint, crack;;;plaster partially removed, humid bricks;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6974;NA;wall C;train;mould, damp patch, peeling paint, crack;;;NA;14/09/2026;bright, natural;yes;blurry
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6975;NA;wall C;train;mould, blistering, crack, peeling paint, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6976;NA;wall C + ceiling;train;mould, crack, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6977;NA;wall C;train;mould, blistering, crack, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6978;NA;wall C;train;mould, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6979;NA;wall C;train;mould, damp patch, crack;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c100_bright_clean_6980;NA;wall C;train;mould, damp patch, crack;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6981;CLOSET-C_c100_bright_clean_6980;wall C;train;mould, damp patch, crack, blistering;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c20_bright_clean_6982;CLOSET-C_c40_bright_clean_6981;wall C;train;mould, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6983;CLOSET-C_c100_bright_clean_6980;wall C;train;mould, damp patch, crack, blistering;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_bright_clean_6984;NA;wall C;train;mould, blistering, crack, peeling paint;;;plaster partially removed, humid cement plaster;14/09/2026;bright, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c20_bright_clean_6985;CLOSET-C_c40_bright_clean_6984;wall C;train;mould, blistering, crack;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6986;NA;wall B;train;mould, blistering, peeling paint;;;plaster partially removed, humid cement plaster;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_bright_clean_6987;CLOSET-B_c40_bright_clean_6986;wall B;train;mould, blistering, peeling paint;;;plaster partially removed, humid cement plaster;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_bright_clean_6988;CLOSET-B_c40_bright_clean_6986;wall B;train;mould, blistering;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_bright_clean_6989;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_bright_clean_6990;NA;wall B;train;blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_bright_clean_6991;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_bright_clean_6992;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c300_bright_clean_6993;NA;corner 3 - wall C & D + ceiling;train;mould, damp patch;;;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c300_bright_clean_6994;NA;corner 4 - wall D & A + ceiling;train;none;clean;NA;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_6995;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_6996;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_6997;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_6998;NA;wall D;train;none;hard;dirt residues;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_6999;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;bright, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_bright_clean_7001;NA;wall D;train;none;hard;transfer stains, punch mark;NA;14/09/2026;bright, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c300_dim_clean_7002;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch;;;plaster partially removed, humid bricks;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c300_dim_clean_7003;NA;corner 1 - wall A & B + ceiling;train;mould, damp patch, peeling paint;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7004;NA;corner 1 - wall A & B;train;mould, blistering;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_dim_clean_7005;NA;wall B + ceiling;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7006;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7007;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7008;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7009;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7010;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7011;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7012;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7013;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7014;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_dim_clean_7015;NA;wall B + ceiling;train;mould, blistering, damp patch, crack;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7016;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7017;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7018;NA;wall B;train;mould, damp patch;;;NA;14/09/2026;dim, natural;yes;blurry
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7019;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7020;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7021;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_dim_clean_7022;NA;wall B;train;mould, blistering, peeling paint, damp patch;;;plaster partially removed, humid cement plaster with mould;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7023;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7024;NA;wall B;train;mould, blistering, damp patch;;;plaster partially removed, humid cement plaster with mould;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7025;NA;wall B;train;mould, blistering;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7026;NA;wall B;train;mould, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c20_dim_clean_7027;NA;wall B;train;mould, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c100_dim_clean_7028;NA;corner 2 - wall B & C;train;mould, peeling paint, damp patch, crack;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_dim_clean_7029;NA;wall C;train;mould, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c20_dim_clean_7030;CLOSET-C_c40_dim_clean_7029;wall C;train;mould, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_dim_clean_7031;NA;wall C;train;mould, blistering, damp patch;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c20_dim_clean_7032;CLOSET-C_c40_dim_clean_7031;wall C;train;mould, blistering;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c40_dim_clean_7033;NA;wall C;train;none;clean;NA;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_dim_clean_7034;NA;wall B + ceiling;train;mould, peeling paint, crack;;;plaster partially removed, humid bricks;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c100_dim_clean_7035;NA;wall B + ceiling;train;mould, peeling paint, crack, damp patch;;;plaster partially removed, humid bricks;14/09/2026;dim, natural;no;NA
+CLOSET-C;closet;CLOSET-C_c20_dim_clean_7036;NA;wall C;train;mould, peeling paint, crack, damp patch, blistering;;;NA;14/09/2026;dim, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_dim_clean_7037;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;dim, natural;no;NA
+CLOSET-D;closet;CLOSET-D_c40_dim_clean_7038;NA;wall D;train;none;clean;NA;NA;14/09/2026;dim, natural;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7039;NA;corner 1 - wall A & B;train;mould, blistering;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c300_elec_clean_7040;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch;;;plaster partially removed, humid bricks;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c300_elec_clean_7041;NA;corner 1 - wall A & B;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7042;NA;corner 1 - wall A & B;train;mould, blistering;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c100_elec_clean_7043;NA;wall B + ceiling;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7044;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7045;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7046;NA;wall B;train;mould, blistering, damp patch, peeling paint;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7047;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7048;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7049;CLOSET-B_c40_elec_clean_7048;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7050;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7051;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7052;NA;wall B;train;mould, blistering, damp patch, peeling paint;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7053;NA;wall B;train;damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c100_elec_clean_7054;NA;wall B + ceiling;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7055;NA;wall B;train;blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7056;NA;wall B;train;blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7057;NA;wall B;train;none;hard;poor paint finish;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7058;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7059;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7060;NA;wall B;train;blistering, damp patch, crack;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7061;NA;wall B;train;blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7062;NA;wall B;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c10_elec_clean_7063;CLOSET-B_c20_elec_clean_7062;wall B;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7064;NA;wall B;train;damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7065;NA;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c10_elec_clean_7066;CLOSET-B_c20_elec_clean_7065;wall B;train;mould, blistering, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7067;NA;wall B;train;mould, blistering, damp patch, peeling paint;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c40_elec_clean_7068;NA;wall B;train;mould, blistering, damp patch, peeling paint;;;plaster partially removed, humid cement plaster with mould;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7069;CLOSET-B_c40_elec_clean_7068;wall B;train;mould, blistering;;;NA;14/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7070;CLOSET-B_c40_elec_clean_7068;wall B;train;mould, blistering, damp patch, peeling paint;;;plaster partially removed, humid cement plaster with mould;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c40_elec_clean_7071;NA;corner 2 - wall B & C;train;mould, blistering, damp patch, peeling paint;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c40_elec_clean_7072;NA;wall C;train;mould, blistering, damp patch, peeling paint;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c20_elec_clean_7073;NA;wall C;train;mould, crack, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c10_elec_clean_7074;CLOSET-C_c20_elec_clean_7073;wall C;train;mould, crack, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c10_elec_clean_7075;CLOSET-C_c20_elec_clean_7073;wall C;train;mould, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c20_elec_clean_7076;NA;wall C;train;mould, crack, damp patch;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c40_elec_clean_7077;NA;wall C;train;blistering, damp patch, crack;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c20_elec_clean_7078;CLOSET-C_c40_elec_clean_7077;wall C;train;blistering, damp patch, crack;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c100_elec_clean_7079;NA;corner 2 - wall B & C + ceiling;train;mould, damp patch, crack;;;plaster partially removed, humid bricks;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c100_elec_clean_7080;NA;wall C + ceiling;train;mould, damp patch, crack;;;plaster partially removed, humid bricks;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c20_elec_clean_7081;NA;wall C;train;blistering, damp patch, crack;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c20_elec_clean_7082;NA;wall C;train;blistering, damp patch, crack, peeling paint, mould;;;NA;14/09/2026;elec;no;NA
+CLOSET-C;closet;CLOSET-C_c40_elec_clean_7083;NA;wall C;train;none;hard;window architrave wall;NA;14/09/2026;elec;no;NA
+CLOSET-D;closet;CLOSET-D_c40_elec_clean_7084;NA;wall D;train;none;hard;break resulting from the joint between the wall and the window frame;NA;14/09/2026;elec;no;NA
+CLOSET-D;closet;CLOSET-D_c40_elec_clean_7085;NA;wall D;train;none;hard;transfer stains;NA;14/09/2026;elec;no;NA
+CLOSET-D;closet;CLOSET-D_c40_elec_clean_7086;NA;wall D;train;none;hard;poor paint finish;NA;14/09/2026;elec;no;NA
+CLOSET-D;closet;CLOSET-D_c40_elec_clean_7087;NA;wall D;train;none;hard;poor paint finish;NA;14/09/2026;elec;no;NA
+CLOSET-D;closet;CLOSET-D_c40_elec_clean_7088;NA;wall D;train;none;hard;punch mark;NA;14/09/2026;elec;no;NA
+HALLWAY-A;hallway;HALLWAY-A_c40_bright_clean_7108;NA;wall A;val;none;hard;clearly defined gradient shadow line on a plain wall;NA;16/09/2026;bright, natural;no;NA
+LIVING-D;living;LIVING-D_c20_bright_clean_7109;NA;wall D;test;none;hard;clearly defined gradient shadow line on a plain wall;NA;16/09/2026;bright, natural;no;NA
+LIVING-A;living;LIVING-A_c20_bright_clean_7110;NA;wall A;test;none;hard;clearly defined gradient shadow line on a plain wall;NA;16/09/2026;bright, natural;no;NA
+OFFICE-A;office;OFFICE-A_c40_elec_clean_7111;NA;wall A;test;none;hard;clearly defined gradient shadow line on a plain wall;NA;16/09/2026;elec;no;NA
+OFFICE-D;office;OFFICE-D_c40_elec_clean_7112;NA;wall D;test;none;hard;diffused shadows;NA;16/09/2026;elec;no;NA
+OFFICE-A;office;OFFICE-A_c10_elec_clean_7113;NA;wall A;test;none;hard;L shaped hook nail in wall with projected shadow;NA;16/09/2026;elec;no;NA
+BEDROOM-D;bedroom;BEDROOM-D_c10_elec_clean_7114;NA;wall D;test;none;hard;L shaped hook nail in wall with projected shadow;NA;16/09/2026;elec;no;NA
+CLOSET-B;closet;CLOSET-B_c20_elec_clean_7115;NA;wall B;train;none;hard;Shelf brackets with projected shadow;NA;16/09/2026;elec;no;NA
+LIVING-A;living;LIVING-A_c20_bright_clean_7116;NA;wall A;test;none;hard;Door frame and wall junction;NA;16/09/2026;bright, natural;no;NA
+HALLWAY-G;hallway;HALLWAY-G_c20_bright_clean_7117;NA;wall G;val;none;hard;paint texture change near door frame;NA;16/09/2026;bright, natural;no;NA
+OFFICE-C;office;OFFICE-C_c20_bright_clean_7118;NA;wall C;test;none;hard;natural joint cracks between window frame and wall plus adhesive tape residues in wall;NA;16/09/2026;bright, natural;no;NA
+CLOSET-A;closet;CLOSET-A_c40_elec_clean_7119;NA;wall A;train;none;hard;accumulated dust in protruding skirting board;NA;16/09/2026;elec;no;NA
+CLOSET-A;closet;CLOSET-A_c40_elec_clean_7120;NA;wall A;train;none;hard;accumulated dust in protruding skirting board + wall with poorly done pach repairs;NA;16/09/2026;elec;no;NA
+OFFICE-C;office;OFFICE-C_c20_bright_clean_7121;NA;wall C;test;none;hard;wall with poorly done pach repairs;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c20_bright_clean_7122;NA;wall C;test;none;hard;accumulated dust in protruding skirting board + wall with poorly done pach repairs;NA;16/09/2026;bright, natural;no;NA
+HALLWAY-G;hallway;HALLWAY-G_c20_bright_clean_7123;NA;wall G;val;crack, mould;;;NA;16/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c20_bright_clean_7124;NA;wall E;test;none;hard;smaill insect cocoon in wall corner;NA;16/09/2026;bright, natural;no;NA
+LIVING-D;living;LIVING-D_c20_bright_clean_7125;NA;wall D;test;none;hard;straight line from ink drop run-off;NA;16/09/2026;bright, natural;no;NA
+LIVING-D;living;LIVING-D_c20_bright_clean_7126;NA;wall D;test;none;hard;straight line from ink drop run-off;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c20_bright_clean_7127;NA;wall C;test;none;hard;straight line from ink drop run-off;NA;16/09/2026;bright, natural;no;NA
+LIVING-A;living;LIVING-A_c20_bright_clean_7128;NA;wall A;test;none;hard;transfer linear stain;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c10_bright_clean_7129;NA;wall C;test;none;hard;line from overlapping paint layers;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c10_bright_clean_7130;NA;wall C;test;none;hard;line revealing old crack line painted over;NA;16/09/2026;bright, natural;no;NA
+LIVING-A;living;LIVING-A_c10_bright_clean_7131;NA;wall A;test;none;hard;transfer linear stain;NA;16/09/2026;bright, natural;no;NA
+HALLWAY-E;hallway;HALLWAY-E_c20_bright_clean_7132;NA;wall E;val;none;hard;paint texture change ;NA;16/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c20_bright_clean_7133;NA;wall B;test;none;hard;transfer stains;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c10_bright_clean_7134;NA;wall C;test;none;hard;small plastic bead fixed to wall;NA;16/09/2026;bright, natural;no;NA
+LIVING-C;living;LIVING-C_c20_bright_clean_7135;NA;wall C;test;none;hard;transfer linear stain;NA;16/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c10_bright_clean_7136;NA;wall E;test;none;hard;gradiant shadow + transfer stains;NA;16/09/2026;bright, natural;no;NA
+BEDROOM-D;bedroom;BEDROOM-D_c10_bright_clean_7141;NA;wall D;test;none;hard;line revealing old crack line painted over;NA;17/09/2026;bright, natural;no;NA
+BEDROOM-D;bedroom;BEDROOM-D_c10_bright_clean_7142;NA;wall D;test;none;hard;line revealing old crack line painted over;NA;17/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c20_bright_clean_7146;NA;wall E;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c20_bright_clean_7147;NA;wall E;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c40_bright_clean_7148;NA;wall E;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c40_bright_clean_7149;NA;wall E;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c20_bright_clean_7151;KITCHEN-B_c40_bright_clean_7152;wall B;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7152;NA;wall B;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7153;KITCHEN-C_c40_bright_clean_7154;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7154;NA;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7155;KITCHEN-C_c40_bright_clean_7156;wall C;val;crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7156;NA;wall C;val;crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7157;NA;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7158;KITCHEN-C_c40_bright_clean_7157;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7159;KITCHEN-C_c40_bright_clean_7160;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7160;NA;wall C;val;blistering, mould, crack, damp patch;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-D;kitchen;KITCHEN-D_c20_bright_clean_7164;KITCHEN-D_c40_bright_clean_7166;wall D;val;crack;;;NA;17/09/2026;bright, natural;no;NA
+KITCHEN-D;kitchen;KITCHEN-D_c40_bright_clean_7166;NA;wall D;val;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c20_bright_clean_7169;LIVING-B_c40_bright_clean_7170;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c40_bright_clean_7170;NA;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c20_bright_clean_7171;NA;wall B;test;none;hard;dust or cowebs remainings suspended in wall;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c20_bright_clean_7172;LIVING-B_c40_bright_clean_7173;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c40_bright_clean_7173;LIVING-B_c100_bright_clean_7175;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c10_bright_clean_7174;LIVING-B_c20_bright_clean_7172;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+LIVING-B;living;LIVING-B_c100_bright_clean_7175;NA;wall B;test;crack;;;NA;17/09/2026;bright, natural;no;NA
+OFFICE-C;office;OFFICE-C_ctx_bright_clean_7176;NA;wall C;test;damp patch, crack, peeling paint, mould;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-C;office;OFFICE-C_c40_bright_clean_7177;OFFICE-C_ctx_bright_clean_7176;wall C;test;damp patch, peeling paint, mould;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-C;office;OFFICE-C_c40_bright_clean_7178;OFFICE-C_ctx_bright_clean_7176;wall C;test;damp patch, crack, mould;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-C;office;OFFICE-C_c40_bright_clean_7179;NA;wall C;test;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7180;NA;wall B;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c20_bright_clean_7181;KITCHEN-B_c40_bright_clean_7180;wall B;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7182;NA;wall B;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c20_bright_clean_7183;KITCHEN-B_c40_bright_clean_7182;wall B;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7184;NA;wall B;val;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7185;NA;wall B;val;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7186;NA;wall B;val;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c20_bright_clean_7187;KITCHEN-B_c40_bright_clean_7186;wall B;val;damp patch, blistering, crack;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c40_bright_clean_7188;NA;wall B;val;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-B;kitchen;KITCHEN-B_c20_bright_clean_7189;KITCHEN-B_c40_bright_clean_7188;wall B;val;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7190;NA;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7191;KITCHEN-C_c40_bright_clean_7190;wall C;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c100_bright_clean_7192;NA;wall C;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c80_bright_clean_7193;NA;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-B;office;OFFICE-B_c40_bright_clean_7194;NA;wall B;test;blistering;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-B;office;OFFICE-B_c20_bright_clean_7195;OFFICE-B_c40_bright_clean_7194;wall B;test;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+OFFICE-B;office;OFFICE-B_c20_bright_clean_7196;OFFICE-B_c40_bright_clean_7194;wall B;test;damp patch, blistering;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-A;hallway;HALLWAY-A_ctx_bright_clean_7197;NA;wall A;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-B;hallway;HALLWAY-B_c40_bright_clean_7198;NA;wall B;val;blistering;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-B;hallway;HALLWAY-B_c20_bright_clean_7199;HALLWAY-B_c40_bright_clean_7198;wall B;val;blistering;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-C;hallway;HALLWAY-C_c40_bright_clean_7200;NA;wall C;val;blistering, peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-C;hallway;HALLWAY-C_c20_bright_clean_7201;NA;wall C;val;blistering, mould, crack, damp patch;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-C;hallway;HALLWAY-C_c10_bright_clean_7202;HALLWAY-C_c40_bright_clean_7200;wall C;val;blistering, peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7203;NA;wall C;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7204;NA;wall C;val;damp patch, blistering, mould;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7205;NA;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7206;KITCHEN-C_c40_bright_clean_7205;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c40_bright_clean_7207;NA;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-C;kitchen;KITCHEN-C_c20_bright_clean_7208;KITCHEN-C_c40_bright_clean_7207;wall C;val;damp patch, blistering, mould, crack;;;NA;18/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c40_bright_clean_7209;NA;wall E;test;blistering, peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c20_bright_clean_7210;LIVING-E_c40_bright_clean_7209;wall E;test;blistering, peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c40_bright_clean_7211;NA;wall E;test;peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+LIVING-E;living;LIVING-E_c20_bright_clean_7212;LIVING-E_c40_bright_clean_7211;wall E;test;peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-A;kitchen;KITCHEN-A_c40_bright_clean_7213;NA;wall A;val;peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+KITCHEN-A;kitchen;KITCHEN-A_c20_bright_clean_7214;KITCHEN-A_c40_bright_clean_7213;wall A;val;peeling paint;;;NA;18/09/2026;bright, natural;no;NA
+HALLWAY-B1;hallway;HOLDOUT-01_c40_bright_7218;;Wall B, lower section near skirting not covered in any other split;holdout;damp patch, blistering;;;NA;20/09/2026;bright, natural;no;NA
+HALLWAY-B1;hallway;HOLDOUT-02_c40_bright_7219;;Wall B, lower section near skirting not covered in any other split;holdout;damp patch;;;NA;20/09/2026;bright, natural;no;NA
+KITCHEN-E;kitchen;HOLDOUT-03_c40_bright_7220;;Wall E;holdout;damp patch, blistering, mould, crack;;;NA;20/09/2026;bright, natural;no;NA
+HALLWAY-C1;hallway;HOLDOUT-04_c40_bright_7221;;Wall C, lower section near skirting not covered in any other split;holdout;blistering;;;NA;20/09/2026;bright, natural;no;NA
+HALLWAY-C1;hallway;HOLDOUT-05_c40_bright_7222;;Wall C, lower section near skirting not covered in any other split;holdout;blistering, peeling paint;;;NA;20/09/2026;bright, natural;no;NA
+HALLWAY-C1;hallway;HOLDOUT-06_c40_bright_7223;;Wall C, lower section near skirting not covered in any other split;holdout;damp patch, blistering, mould;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-07_c40_bright_7224;;Wall F;holdout;crack;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-08_c40_bright_7225;;Wall F;holdout;peeling paint;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-09_c40_bright_7228;;Wall F;holdout;peeling paint;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-10_c40_bright_7229;;Wall F;holdout;peeling paint;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-11_c40_bright_7230;;Wall F;holdout;crack;;;NA;20/09/2026;bright, natural;no;NA
+LIVING-F;living;HOLDOUT-12_c40_bright_7231;;Wall F;holdout;none;hard;transfer stains;NA;20/09/2026;bright, natural;no;NA
